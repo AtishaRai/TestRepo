@@ -1,7 +1,7 @@
 {
   "name": "BlankProcess4",
   "projectId": "c636cf06-4bb8-46c3-b22a-b6969d65fb44",
-  "description": "Blank Process",
+  "description": "Blank Process55555555555555",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[25.10.4]"
@@ -54,4 +54,5 @@
   "templateProjectData": {},
   "publishData": {},
   "targetFramework": "Windows"
+
 }
